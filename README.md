@@ -10,7 +10,7 @@
 2. Watching Movies
 3. Playing with my dog
 
-If you also want to build a site similar to this, you can use [Github] (https://pages.github.com/).
+If other people want to visit this site, they can do so by clicking [here] (https://haelaine.github.io/Github-Page/).
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
