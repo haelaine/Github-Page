@@ -1,42 +1,30 @@
-### Markdown
+### Hello, there! 
 
-#Hello, there! 
-
-**My favorite quote is: **
-> NEED TO ADD
+**My favorite quote is:**
+> Books are the world!
 
 **My Hobbies**
 1. Reading
+   -I can read for hours and hours and still not get tired of it.
 2. Watching Movies
+   -I really love watching movies! :smile:
 3. Playing with my dog
+   -Come take a look at Sophie.
 
-If other people want to visit this site, they can do so by clicking [here] (https://haelaine.github.io/Github-Page/).
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Elaine Ha
-## Nice to meet you
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+To use github, some basic git commands are: 
+```
+git commit
+git add
+git push
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I plan to make a site on: 
+- [x] books
+- [ ] apples
+- [ ] bananas
 
-### Jekyll Themes
+If other people want to visit \*this site\*, they can do so by clicking [here] (https://haelaine.github.io/Github-Page/).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/haelaine/Github-Page/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
