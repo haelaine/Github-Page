@@ -27,6 +27,7 @@ git push
 
 If other people want to visit \*this site\*, they can do so by clicking [here] (https://haelaine.github.io/Github-Page/) .
 
+This site was built using [GitHub Pages](https://pages.github.com/).
 
 
 
