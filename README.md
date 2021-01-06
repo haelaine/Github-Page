@@ -1,11 +1,16 @@
 # Welcome to Elaine Ha's Page
 
+### Markdown
+
+**My favorite quote is: **
+> NEED TO ADD
+
 **My Hobbies**
 -Reading
 -Watching Movies
 -Playing with my dog
 
-### Markdown
+If you also want to build a site similar to this, you can use [Github] (https://pages.github.com/).
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
