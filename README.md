@@ -25,7 +25,7 @@ git push
 - [ ] bananas
 
 
-If other people want to visit \*this site\*, they can do so by clicking [here] (https://haelaine.github.io/Github-Page/) .
+If other people want to visit \*this site\*, they can do so by clicking [right here] (https://google.com).
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
