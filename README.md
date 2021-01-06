@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Elaine Ha's Page
 
 You can use the [editor on GitHub](https://github.com/haelaine/Github-Page/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
