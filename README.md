@@ -1,14 +1,14 @@
-# Welcome to Elaine Ha's Page
-
 ### Markdown
+
+#Hello, there! 
 
 **My favorite quote is: **
 > NEED TO ADD
 
 **My Hobbies**
--Reading
--Watching Movies
--Playing with my dog
+1. Reading
+2. Watching Movies
+3. Playing with my dog
 
 If you also want to build a site similar to this, you can use [Github] (https://pages.github.com/).
 
