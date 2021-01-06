@@ -24,8 +24,8 @@ git push
 - [ ] apples
 - [ ] bananas
 
-
-If other people want to visit \*this site\*, they can do so by clicking [here] (https://haelaine.github.io/Github-Page/).
+To visit my favorite quote: click [here]
+If other people want to visit \*this site\*, they can do so by clicking [here](https://haelaine.github.io/Github-Page/).
 
 
 
