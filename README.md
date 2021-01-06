@@ -5,11 +5,11 @@
 
 **My Hobbies**
 1. Reading
-   -I can read for hours and hours and still not get tired of it.
+   - I can read for hours and hours and still not get tired of it.
 2. Watching Movies
-   -I really love watching movies! :smile:
+   - I really love watching movies! :smile:
 3. Playing with my dog
-   -Come take a look at Sophie.
+   - Come take a look at Sophie.
 
 To use github, some basic git commands are: 
 ```
