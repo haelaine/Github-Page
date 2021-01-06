@@ -25,7 +25,7 @@ git push
 - [ ] bananas
 
 
-If other people want to visit \*this site\*, they can do so by clicking [right here] (https://google.com).
+If other people want to visit \*this site\*, they can do so by clicking [right here] (www.google.com).
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
