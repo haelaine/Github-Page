@@ -1,9 +1,9 @@
 ### Hello, there! 
 
-## My favorite quote is:**
+## My favorite quote is:
 > Books are the world!
 
-# My Hobbies**
+# My Hobbies
 1. *Reading*
    - I can read for hours and hours and still not get tired of it.
 2. *Watching Movies*
