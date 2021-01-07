@@ -31,7 +31,7 @@ git push
 
 To go back up and take a look at what my hobbies are, click [here](https://github.com/haelaine/Github-Page/blob/main/README.md#my-hobbies). 
 
-If other people want to visit \*google\*, they can do so by clicking [here](https:google.com).
+If other people want to visit \*google\*, they can do so by clicking [here](https://google.com).
 
 
 
