@@ -5,7 +5,7 @@
 >And all the men and women are merely players"
 \- *Shakespeare*
 
-### My Hobbies
+## My Hobbies
 1. *Reading*
    - I can read for hours and hours and still not get tired of it.
 2. *Watching Movies*
@@ -23,6 +23,9 @@ git commit
 git add
 git push
 ```
+## My things TODO for this year
+- SLEEP MORE (A MUST!) 
+- exercise (~~probably~~ I will) 
 
 **I plan to make a site on:** 
 - [x] books
