@@ -1,9 +1,11 @@
-### Hello, there! 
+# Hello, there! 
 
 ## My favorite quote is:
-> Books are the world!
+> "All the world's a stage, 
+>And all the men and women are merely players"
+- *Shakespeare*
 
-# My Hobbies
+### My Hobbies
 1. *Reading*
    - I can read for hours and hours and still not get tired of it.
 2. *Watching Movies*
@@ -12,6 +14,8 @@
    - Come take a look at Sophie.
    ![adorablepuppy.jpg](./adorablepuppy.jpg)
 
+***Some things about me ~~YAY~~***
+**I am a _CS major_ studying in UCSD.** 
 
 ## To use github, some basic git commands are: 
 ```
