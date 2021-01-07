@@ -10,7 +10,7 @@
    - I really love watching movies! :smile:
 3. *Playing with my dog*
    - Come take a look at Sophie.
-   ![adorablepuppy.jpg](./adorablepuppy.jpg)
+   ![adorablepuppy.jpg](/adorablepuppy.jpg)
 
 ***Something about me ~~YAY~~***: 
 **I am a _CS major_ studying in UCSD.** 
