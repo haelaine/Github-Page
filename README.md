@@ -1,9 +1,7 @@
 # Hello, there! 
 
 ## My favorite quote is:
-> "All the world's a stage, 
->And all the men and women are merely players"
-\- *Shakespeare*
+> "All the world's a stage, And all the men and women are merely players" \- *Shakespeare*
 
 ## My Hobbies
 1. *Reading*
