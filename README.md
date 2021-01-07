@@ -10,6 +10,7 @@
    - I really love watching movies! :smile:
 3. *Playing with my dog*
    - Come take a look at Sophie.
+   ![adorablepuppy.jpg](./adorablepuppy.jpg)
 
 
 ## To use github, some basic git commands are: 
