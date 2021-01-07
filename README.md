@@ -3,7 +3,7 @@
 ## My favorite quote is:
 > "All the world's a stage, 
 >And all the men and women are merely players"
-- *Shakespeare*
+\- *Shakespeare*
 
 ### My Hobbies
 1. *Reading*
@@ -14,7 +14,7 @@
    - Come take a look at Sophie.
    ![adorablepuppy.jpg](./adorablepuppy.jpg)
 
-***Some things about me ~~YAY~~***
+***Something about me ~~YAY~~***: 
 **I am a _CS major_ studying in UCSD.** 
 
 ## To use github, some basic git commands are: 
